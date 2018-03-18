@@ -1,0 +1,15 @@
+Set Up Instructions
+
+1. Change the connection String to MySQL DataBase in ReminderApp/Form1.cs
+2. Change the connection String to MySQL DataBase in Reminder/Program.cs
+3. Alter the path to Executable in ReminderApp/Form1.cs
+
+Reminder APP :  Works as an interface to update/create/delete existing Reminders.
+Reminder : Works in background as a Windows Application without any interface.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+MySQL DB should contain a table with below given table: - 
+
+
+--------- create table reminders (id int NOT NULL AUTO_INCREMENT primary key,message varchar(200),time varchar(200),status varchar(200),snooze varchar(200),repeatDaily varchar(200));

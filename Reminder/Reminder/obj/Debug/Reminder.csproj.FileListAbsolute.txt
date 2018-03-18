@@ -1,0 +1,6 @@
+C:\Users\Puneet Singh Sahota\documents\visual studio 2017\Projects\Reminder\Reminder\bin\Debug\Reminder.exe.config
+C:\Users\Puneet Singh Sahota\documents\visual studio 2017\Projects\Reminder\Reminder\bin\Debug\Reminder.exe
+C:\Users\Puneet Singh Sahota\documents\visual studio 2017\Projects\Reminder\Reminder\bin\Debug\Reminder.pdb
+C:\Users\Puneet Singh Sahota\documents\visual studio 2017\Projects\Reminder\Reminder\obj\Debug\Reminder.csprojResolveAssemblyReference.cache
+C:\Users\Puneet Singh Sahota\documents\visual studio 2017\Projects\Reminder\Reminder\obj\Debug\Reminder.exe
+C:\Users\Puneet Singh Sahota\documents\visual studio 2017\Projects\Reminder\Reminder\obj\Debug\Reminder.pdb
